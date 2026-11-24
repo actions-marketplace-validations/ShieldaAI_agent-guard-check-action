@@ -38,7 +38,7 @@ is still in the job summary. Version 1.6.2 fails the job in that case; later ver
 on.
 
 For a security check, pin the action to a full commit SHA instead of `@v1`, as GitHub recommends
-for third-party actions: `uses: ShieldaAI/agent-guard-check-action@<commit> # v1.6.2`. Each
+for third-party actions: `uses: ShieldaAI/agent-guard-check-action@<commit> # v1.7.0`. Each
 release tag names the scanner version it runs.
 
 ## What a run does
